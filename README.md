@@ -1,8 +1,8 @@
 # POO 
 ## Integrantes do Grupo
-- Isaac Ferreira e01702
-- Rafael Lima e01758
-
+- Isaac Ferreira E01702
+- Rafael Lima E01758
+- Gleiton Brandão - E01725
 
 ## Contextualização do Problema
 O problema de transporte é uma situação comum em logística, onde o objetivo é minimizar o custo de distribuição de produtos de vários fornecedores para vários consumidores, respeitando as capacidades de oferta e demanda.
