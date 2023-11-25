@@ -1,7 +1,7 @@
 # POO 
 ## Integrantes do Grupo
-- Isaac Ferreira 
-
+- Isaac Ferreira e01702
+- Rafael Lima e01758
 
 
 ## Contextualização do Problema
